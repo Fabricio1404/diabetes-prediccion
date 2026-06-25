@@ -10,8 +10,8 @@ Sistema de Machine Learning diseñado para predecir si una paciente presenta dia
 Este proyecto fue desarrollado de manera integral por el grupo, con una distribución de tareas en el análisis y ejecución técnica:
 
 * **Giuricich Facundo:** Responsable de la carga de datos y exploración inicial.
-* **Ausgusto Fabricio:** Responsable del preprocesamiento, limpieza de nulos y estandarización.
-* **Galvan Leo:** Responsable de la selección de modelos, entrenamiento, evaluación y exportación del modelo final.
+* **Augusto Fabricio:** Responsable del preprocesamiento, limpieza de nulos y estandarización.
+* **Galban Leo:** Responsable de la selección de modelos, entrenamiento, evaluación y exportación del modelo final.
 
 *(El desarrollo de la API y la interfaz fue un trabajo colaborativo final para el despliegue del producto).*
 
